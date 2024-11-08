@@ -1,3 +1,7 @@
+
+var require = createRequire(import.meta.url);
+var module = { exports: {} };
+
 /** @type {import('tailwindcss').Config} */
 // eslint-disable-next-line
 export default {
